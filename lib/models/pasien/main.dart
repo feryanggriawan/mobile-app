@@ -1,0 +1,11 @@
+export 'anomali.dart';
+export 'data1.dart';
+export 'data2.dart';
+export 'detail.dart';
+export 'kaki.dart';
+export 'kaki_kanan.dart';
+export 'kanan.dart';
+export 'pasien.dart';
+export 'pubis.dart';
+export 'release.dart';
+export 'visual.dart';

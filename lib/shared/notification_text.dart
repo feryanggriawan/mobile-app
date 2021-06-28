@@ -1,0 +1,9 @@
+String nameEmpty = "Nama tidak boleh kosong";
+String nikEmpty = "NIK tidak boleh kosong";
+String emailEmpty = "Email tidak boleh kosong";
+String phoneNumberEmpty = "Nomor HP tidak boleh kosong";
+String passwordEmpty = "Password tidak boleh kosong";
+String passwordConfirmEmpty = "Password tidak sama";
+String addressEmpty = "Alamat tidak boleh kosong";
+String usernameEmpty = "Username tidak boleh kosong";
+String ktpEmpty = "KTP tidak boleh kosong";

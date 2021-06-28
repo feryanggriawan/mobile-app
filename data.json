@@ -1,0 +1,80 @@
+{
+  "type": 1,
+  "user": 38,
+  "schedule": 2021-06-06
+  "3": 44,
+  "personal": {
+    "name": 123,
+    "usia": 123,
+    "phone": 133,
+    "jenis_kelamin": laki-laki
+  },
+  "address": {
+    "location": 2666,
+    "detail": 123
+  },
+  "penyakit": "Abses Anus",
+  "keluhan": "123",
+  "visual": {
+    "kaki": {
+      "variant": "bungkuk",
+      "kanan": "mendekat",
+      "kiri": "mendekat"
+    },
+    "pundak": {
+      "variant": "lurus",
+      "kanan": "tinggi",
+      "kiri": "tinggi"
+    }
+  },
+  "pubis": {
+    "data1": {
+      "kanan": {
+        "depan": 0,
+        "samping": 0,
+        "hasil_depan_samping": "menutup",
+        "atas": 0,
+        "bawah": 0,
+        "hasil_atas_bawah": "kedepan"
+      },
+      "kiri": {
+        "depan": 0,
+        "samping": 0,
+        "hasil_depan_samping": "menutup",
+        "atas": 0,
+        "bawah": 0,
+        "hasil_atas_bawah": "kedepan"
+      }
+    },
+    "data2": [
+      {
+        "bagian": "samping",
+        "value": 0,
+        "sebelah": "kiri"
+      },
+      {
+        "bagian": "atas",
+        "value": 0,
+        "sebelah": "kiri"
+      }
+    ]
+  },
+  "anomali": {
+    "thorax": "ada",
+    "lumbar": "masuk"
+  },
+  "detail": {
+    "kaki_kanan": {
+      "depan_samping": "lebih-membuka",
+      "atas_bawah":" lebih-mundur"
+    },
+    "kaki_kiri": {
+      "depan_samping": "lebih-membuka",
+      "atas_bawah": "mundur"
+    }
+  },
+  "release": {
+    "value": "79.33884297520662",
+    "description": "12"
+  }
+}
